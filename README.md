@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Terah-/rust-oscillator.svg)](https://travis-ci.org/Terah-/rust-oscillator)
+
 # rust-oscillator
 An implementation of a simple oscillator in Rust
 
