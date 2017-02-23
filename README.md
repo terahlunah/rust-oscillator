@@ -2,7 +2,7 @@
 
 # rust-oscillator
 An implementation of a simple oscillator in Rust.
-It's uses a cosine wave with a ajustable frequency.
+It uses a cosine wave with a ajustable frequency.
 
 ## Example
 ```rust
