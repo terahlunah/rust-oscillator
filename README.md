@@ -1,7 +1,8 @@
 [![Build Status](https://travis-ci.org/Terah-/rust-oscillator.svg)](https://travis-ci.org/Terah-/rust-oscillator)
 
 # rust-oscillator
-An implementation of a simple oscillator in Rust
+An implementation of a simple oscillator in Rust.
+It's uses a cosine wave with a ajustable frequency.
 
 ## Example
 ```rust
